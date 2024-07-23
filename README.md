@@ -1,6 +1,6 @@
 # Hi there, I'm Sneh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?snehpatel38&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?snehpatel38your-username&color=blue)
 
 <!-- ## About Me
 
