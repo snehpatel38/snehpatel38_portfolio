@@ -1,6 +1,6 @@
 # Hi there, I'm Sneh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?snehpatel38your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=snehpatel38&color=blue)
 
 <!-- ## About Me
 
@@ -26,4 +26,4 @@ I am a passionate developer with a keen interest in [Your Interest Areas]. I lov
 
 ---
 -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehpatel38&show_icons=true&hide_border=true&theme=radical)
