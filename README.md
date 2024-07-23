@@ -25,5 +25,6 @@ I am a passionate developer with a keen interest in [Your Interest Areas]. I lov
 - [Fun Fact About You]
 
 ---
--->
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehpatel38&show_icons=true&hide_border=true&theme=radical)
+-->
