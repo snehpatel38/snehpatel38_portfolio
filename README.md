@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Sneh 👋
 
-<!--
-**snehpatel38/snehpatel38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?snehpatel38&color=blue)
 
-Here are some ideas to get you started:
+<!-- ## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a passionate developer with a keen interest in [Your Interest Areas]. I love working on projects related to [Your Project Topics].
+
+## 🛠 Skills
+
+- Programming Languages: [Languages]
+- Frameworks: [Frameworks]
+- Tools: [Tools]
+
+## 🌱 What I'm currently learning
+
+- [Current Learning Topics]
+
+## 📫 How to reach me
+
+- [Your Contact Information]
+
+## ⚡ Fun fact
+
+- [Fun Fact About You]
+
+---
 -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical)
